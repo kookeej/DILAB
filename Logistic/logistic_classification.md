@@ -17,3 +17,5 @@ classification algorithm들 중에서도 정확도가 높은 알고리즘이다.
 ## 2.1. Logistic hypothesis
 예측값을 0~1사이로 함축시키고자 하는 아이디어에서 나왔다.    
 ```sigmoid 함수```는 위의 목적을 충족시켜준다.
+
+## 2.2. Logistic cost function
