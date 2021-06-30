@@ -3,7 +3,7 @@ Deep Learning
 ## 목차
 1. [XOR problem  ](#1-xor-problem)
 2. [Backpropagation  ](#2-backpropagation)
-3. [ReLU  ](#3.-relu)
+3. [ReLU  ](#3-relu)
 4. [Vanising Gradient  ](#4-vanising-gradient)
 5. [Dropout and 앙상블  ](#5-dropout-and-앙상블)
 
