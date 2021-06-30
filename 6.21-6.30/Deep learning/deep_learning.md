@@ -1,11 +1,11 @@
 Deep Learning
 ===
 ## 목차
-1. [XOR problem  ](#1.-xor-problem)
-2. [Backpropagation  ](#2.-backpropagation)
+1. [XOR problem  ](#1-xor-problem)
+2. [Backpropagation  ](#2-backpropagation)
 3. [ReLU  ](#3.-relu)
-4. [Vanising Gradient  ](#4.-vanising-gradient)
-5. [Dropout and 앙상블  ](#5.-dropout-and-앙상블)
+4. [Vanising Gradient  ](#4-vanising-gradient)
+5. [Dropout and 앙상블  ](#5-dropout-and-앙상블)
 
 ## 서론
 * 딥러닝에는 ```활성화 함수```라는 개념이 존재한다. ```활성화 함수```란, 합친 값이 어떤 기준보다 크다면 1을, 작다면 0을 보내준다.
