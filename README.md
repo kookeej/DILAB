@@ -1,4 +1,5 @@
 # DILAB Study
+<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=flat&logo=Jupyter&logoColor=white" />
 DI lab에서 공부한 내용 정리📖
 
 ### 💻공부 내용💻
